@@ -5,6 +5,7 @@ Inspired by [wingchen/citipy](https://github.com/wingchen/citipy) , a simple npm
 ## Credits
 - KD-TREE module [luk-/node-kdt](https://github.com/luk-/node-kdt)
 - City coordinates data from [Maxmind](www.maxmind.com/en/free-world-cities-database)
+- Convert coordinates csv to json [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson)
 
 ## Basic use
 Put the module in node_modules directory and then **npm install** to install dependency
