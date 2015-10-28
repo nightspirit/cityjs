@@ -1,0 +1,15 @@
+{
+  "name": "cityjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nightspirit622@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "kdt": "^0.1.0"
+  },
+  "devDependencies": {}
+}
