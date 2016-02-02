@@ -12,7 +12,6 @@ describe('cityjs', function() {
     
     it('{lat:37.77,long:-122.41} is close to San Francisco US', function () {
       var city = cityjs.nearest({lat:37.77,long:-122.41});
-      console.log(city);
       assert.equal('us', city.country);
       assert.equal('san francisco', city.city);
     });
